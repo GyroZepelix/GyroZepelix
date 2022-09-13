@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; "Computer programming is a wonderful hobby that can turn into a career. It creates a sense of joy and prosperity to see the program come to life.
+- 🤔 &nbsp; "Creating something is a beutiful passion to have, making things out of the thin air around us bring me great joy"
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,4 +28,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="mailto:ivan.tomic2108@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.tomic2108@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:domagoj.gjalic05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-domagoj.gjalic05@gmail.com-blue?style=flat-square&logo=gmail"></a>
