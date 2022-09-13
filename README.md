@@ -44,9 +44,9 @@
 - 💽 &nbsp;
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4D4D4D?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
-  <img src=""/>
 
 <br/>
 
