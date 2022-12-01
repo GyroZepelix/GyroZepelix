@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; "Creating something is a beutiful passion to have, making things out of the thin air around us bring me great joy"
+- 🤔 &nbsp; "Creating something is a beutiful passion to have, making things out of the thin air around us brings me great joy"
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
