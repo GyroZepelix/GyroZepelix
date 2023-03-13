@@ -6,6 +6,8 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+<h2> "Yes I am a <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> user 🤓" <h2>
+
 - 🛢 &nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"/>
