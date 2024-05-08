@@ -1,21 +1,25 @@
-<p align="center">
-</p>
-<h2>\.. I'm Domagoj! 🎉</h2>
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-- "Creating something is a beautiful passion to have, making things out of the thin air around us brings me great joy"
-<h3>../ About me 🦀</h3>
-<hr/>
+### Hey!
 
-- As an aspiring **Jack of all Trades** it would be quite *clownish* to show everything I use here, so these are my most used and loved platforms! ( I know im bad with puns 🤫 )
-<br/>
+I'm **Domagoj**, a Rust aficionado with a strong passion for all things open source. Other than my love for technology and experimentation, I also enjoy being a *Jack of all Trades*
+
+[![views](https://komarev.com/ghpvc/?username=GyroZepelix&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/GyroZepelix) [![Contact Me!](https://img.shields.io/badge/contact_me-domagoj.gjalic05@gmail.com-313131)](mailto:domagoj.gjalic05@gmail.com)
+
+<br>
+As someone who is passionate about learning and exploring new technologies, I am always striving to improve and push myself to new heights. I am grateful for the opportunities I have had to develop a wide range of skills and experiences, which have allowed me to tackle a variety of challenges and learn from them.
+
+<br>
+<br>
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&lineCount=4&line1=springboot%2Cspringboot%2C47ff00%3Brust%2Crust%2Cff6900%3Breact%2Creact%2C00d0ff%3B&line2=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI1MTIiIHN0eWxlPSJmaWxsOiMwMGIwNTAiLz4KICAgPHBhdGggZD0ibTczNy41MSA0ODIuNjMtNzEuMTItMzkuMDUtNTkuNzQgMzYuNDktLjc0IDM3LjI3LTI5LjExLTE5LjE4LTM5LjYgMjQuMjZjMi42NCA2Mi4zNSAyLjI5IDU5LjkgMi41MiA1OS45bC05Ny4yNCA2NS40OS0xNS41My0xMDQuNTQgMTA4LjMxLTYxLjc2LTQwLjY4LTI3LjE3LTc1LjA4IDM4LjgxLTIxLTE0My4zNiAxMjkuMTItNDkuNTMtOTEuOS00NC4yNi0xMjUuMjMgMzkuMDUgMjcuODcgMTM0Ljc1IDQyIDMyLjU3LTMxLjgzIDE1LjEgMjEgMTAyIDI5LjMxIDI3LjQ4LTIxIDEyLjczIDE2LjIzIDc4Ljg4TDQ1OS44MyA3NjhjLTEyLTgxLjIxLTExLjY1LTc4LjY1LTExLjQ1LTc4LjY1di0uMjNMNTI2IDYzMy43NmMxNy4xNi0xMi4yMyAxNS4xOC0xMC44MyAxNS41My0xMC44M2wxIDI0LjUzIDMzLjc3IDI4LjMtLjg1LTc3LjY0IDQ2LjU4LTMzLjM5YzE0LjQtMTAuMjUgMjYuNjMtMTguOTQgMjYuNzUtMTguOTRsLTIuMTcgMzYgMjUuMTYgMTcuNDcgNi42LTc0LjY5eiIgc3R5bGU9ImZpbGw6I2ZmZiIvPgo8L3N2Zz4%3D%2Clinode%2C%3Bamazonaws%2Caws%2Cffbf00%3Blinux%2Clinux%2Cffffff%3B&line3=manjaro%2Cmanjaro%2C35BF5C%3Bgit%2Cgit%2CF05032%3Bdocker%2Cdocker%2C2496ED%3B&line4=photopea%2Cphotopea%2C18A497%3Binkscape%2Cinkscape%2Cff7c00%3Baseprite%2Caseprite%2Cffffff%3B"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Interests+%26%2338%3B+Expertise&align=center&titleAlign=center&lineHeight=8&lineCount=2&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=docker%2Cdocker%2C005dff%3Bopensourceinitiative%2CFOSS%2C3DA639%3Bamazonaws%2Caws%2Cff7c00%3Bmetasploit%2CCyber+Security%2Cffffff%3B&line2=lua%2Clua%2C2022b0%3Bspring%2Cspring+framework%2C6DB33F%3Brust%2Crust%2Cff5500%3Blinux%2Clinux%2Cffffff%3B" alt="Interests &#38; Expertise" />
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyroZepelix&theme=github_dark&layout=donut-vertical"/></p>
-
-
-<h3 align="right"> 🤝🏻 &nbsp;Connect with Me </h3>
+<br>
+If you are a maintainer of an open source software or library, please hit me up as I am always interested of additional contributions.
+<br><br>
+<h4 align="right">&nbsp;Connect with Me </h3>
 <p align="right">
-<a href="mailto:domagoj.gjalic05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-domagoj.gjalic05@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:domagoj.gjalic05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/contact_me-domagoj.gjalic05@gmail.com-313131"></a>
 </p>
