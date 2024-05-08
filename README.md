@@ -17,7 +17,7 @@ As someone who is passionate about learning and exploring new technologies, I am
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyroZepelix&theme=github_dark&layout=donut-vertical"/></p>
 <br>
-If you are a maintainer of an open source software or library, please hit me up as I am always interested of additional contributions.
+>_ If you are a maintainer of an open source software or library, please hit me up as I am always interested of additional contributions.
 <br><br>
 <h4 align="right">&nbsp;Connect with Me </h3>
 <p align="right">
