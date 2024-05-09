@@ -23,3 +23,4 @@ As someone who is passionate about learning and exploring new technologies, I am
 <p align="right">
 <a href="mailto:domagoj.gjalic05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/contact_me-domagoj.gjalic05@gmail.com-313131"></a>
 </p>
+![](https://hit.yhype.me/github/profile?user_id=47647801)
