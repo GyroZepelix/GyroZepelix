@@ -7,7 +7,7 @@ I'm **Domagoj**, a Low-Level aficionado with a strong passion for all things ope
 [![views](https://komarev.com/ghpvc/?username=GyroZepelix&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/GyroZepelix) [![Contact Me!](https://img.shields.io/badge/contact_me-domagoj.gjalic05@gmail.com-313131)](mailto:domagoj.gjalic05@gmail.com)
 
 <br>
-As someone who is passionate about learning and exploring new technologies, I am always striving to improve and push myself to new heights. I am grateful for the opportunities I have had to develop a wide range of skills and experiences, which have allowed me to tackle a variety of challenges and learn from them.
+<i>01001001 00100000 01101010 01110101 01110011 01110100 00100000 01101101 01100001 01100100 01100101 00100000 01111001 01101111 01110101 00100000 01100100 01100101 01100011 01101001 01110000 01101000 01100101 01110010 00100000 01110100 01101000 01101001 01110011 00101100 00100000 01001101 01100001 01101110 01100111 01101111 00100001 00100000 00111011 00101001</i>
 
 <br>
 <br>
@@ -17,7 +17,7 @@ As someone who is passionate about learning and exploring new technologies, I am
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyroZepelix&theme=github_dark&layout=donut-vertical"/></p>
 <br>
->_ If you are a maintainer of an open source software or library, please hit me up as I am always interested in additional contributions.
+>_ Why was the Rust compiler so good at stand-up comedy? Because it always caught all the <strong>panics</strong> before they happened!
 <br><br>
 <h4 align="right">&nbsp;Connect with Me </h3>
 <p align="right">
