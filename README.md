@@ -2,7 +2,9 @@
 
 ### Hey!
 
-I'm **Domagoj**, a Low-Level aficionado with a strong passion for all things open source. Other than my love for technology and experimentation, I also enjoy being a *Jack of all Trades*
+I'm **Domagoj**, the **Head of Legacy Code Archeology** and the **Chief Coffee Brewer & Debugging Specialist**:
+<br>
+*My calendar is a work of art, mostly filled with events that could've been an email!*
 
 [![views](https://komarev.com/ghpvc/?username=GyroZepelix&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/GyroZepelix) [![Contact Me!](https://img.shields.io/badge/contact_me-domagoj.gjalic05@gmail.com-313131)](mailto:domagoj.gjalic05@gmail.com)
 
