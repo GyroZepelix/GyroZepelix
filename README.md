@@ -14,7 +14,6 @@ I'm **Domagoj**, the **Head of Legacy Code Archeology** and the **Chief Coffee B
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Interests+%26+Expertise&align=center&titleAlign=center&lineHeight=8&lineCount=3&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=docker%2Cdocker%2C005dff%3Bopensourceinitiative%2CFOSS%2C3DA639%3Bamazon%2Caws%2Cff7c00%3Bmetasploit%2CCyber+Security%2Cffffff%3B&line2=go%2Cgo%2C00ADD8%3Bspring%2Cspring+framework%2C6DB33F%3Brust%2Crust%2Cff5500%3Bgnubash%2Cbash%2Cffffff%3B&line3=lua%2Clua%2C2022b0%3Bneovim%2Cneovim%2C57A143%3Blinux%2Clinux%2Ce3941e%3Bmikrotik%2Cmikrotik%2Cffffff%3B" alt="Interests Expertise" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyroZepelix&theme=github_dark&layout=donut-vertical"/></p>
 <br>
 >_ Why was the Rust compiler so good at stand-up comedy? Because it always caught all the <strong>panics</strong> before they happened!
 <br><br>
